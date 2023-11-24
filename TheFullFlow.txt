@@ -1,0 +1,4 @@
+Department Services --> BASIC CRUD
+Student me Guardian is embedded , guardian itself is not an entity , see embeded and attribute overrides + table and column constraints
+VEHICLE & PERSON ME MAPPING BANAAYI HAI MAINE ONETOONE , AND ONETOONE TESTS ME IMPLEMENT KRI HAI
+ADDRESS & STUDENT ARE MANAGING ONETOMANY & MANYTOONE RELATIONSHIPS...
