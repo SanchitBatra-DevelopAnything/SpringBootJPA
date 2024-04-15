@@ -28,7 +28,7 @@ public class Address {
 	private String area;
 	
 	@ManyToOne(cascade=CascadeType.ALL)
-	@JoinColumn(name="student_id") //jahan ye doge wahan fpreign key banegi , mappedBy doosri class me aayga fir.
+	@JoinColumn(name="student_id") //foreign key child me banegi , and @JoinColumn child me hoga
 	private Student student;
 	
 
